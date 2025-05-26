@@ -9,4 +9,4 @@ Les objectifs de la vitrine GitHub sont :
 -	Identifier des **personnes ressources** en mesure d’épauler les nouvelles recrues du CRCHUSJ;
 -	Démarrer une **communauté de pratique GitHub** à l’échelle du CHUSJ.
 
-Le projet vous allume? Vous souhaitez vous impliquer? Écrivez-nous à soutien.gdr.hsj@ssss.gouv.qc.ca
+Le projet vous allume? Vous êtes **chercheur.euse affilié.e** et vous souhaitez vous impliquer? Écrivez-nous à soutien.gdr.hsj@ssss.gouv.qc.ca
