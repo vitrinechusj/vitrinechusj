@@ -13,4 +13,16 @@ Les objectifs de la vitrine GitHub sont :
 
 <br>
 
+## 📂 Dépôts publics des équipes du CHU Sainte-Justine
+- [Consultez la liste des dépôts publics des équipes du CHU Sainte-Justine](https://github.com/vitrinechusj/depots-chusj/blob/main/depots-publics-chusj.md)
+- [Découvrez comment ajouter votre dépôt à la liste des dépôts publics des équipes du CHU Sainte-Justine](https://github.com/vitrinechusj/depots-chusj/)
+
+<br>
+
+## 🛠️ Ressources du CHU Sainte-Justine pour l'utilisation de GitHub
+- [Consultez le guide sur les bonnes pratiques d'utilisation de GitHub au CHU Sainte-Justine](https://enseignement.chusj.org/getmedia/483e0900-6af9-411d-87bc-db23a9b05f73/GUI_gdr_bonnes-pratiques_github.pdf)
+
+<br>
+
+## 💬 Communauté de pratique Git du CHU Sainte-Justine
 Le projet vous allume? Vous êtes **membre du personnel du CHU Sainte-Justine ou chercheur.euse affilié.e** et vous souhaitez rejoindre la communauté de pratique Git du CHU Sainte-Justine? Écrivez-nous à [soutien.gdr.hsj@ssss.gouv.qc.ca](mailto:soutien.gdr.hsj@ssss.gouv.qc.ca)
